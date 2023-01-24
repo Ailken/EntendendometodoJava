@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36e54bb4-3eef-48de-b24c-ef51fce2bbf3" name="Changes" comment="EntendendoMetodoJavaaula1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula2/aula2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula2/src/Quadrilatero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="36e54bb4-3eef-48de-b24c-ef51fce2bbf3" name="Changes" comment="EntendendoMetodoJavaaula3">
+      <change afterPath="$PROJECT_DIR$/aula3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula3/src/Quadrilatero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -56,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/media/ailken/8246DC5946DC5011/BootCamps/Bootcamp 1/Logica condicional e controle de fluxo/src/loopexercicio2.java"
+    "last_opened_file_path": "/media/ailken/8246DC5946DC5011/BootCamps/Bootcamp 1/EntendendoMetodoJava/aula3/src"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -97,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674520357770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EntendendoMetodoJavaaula3">
+      <created>1674525898056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674525898056</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EntendendoMetodoJavaaula1" />
-    <option name="LAST_COMMIT_MESSAGE" value="EntendendoMetodoJavaaula1" />
+    <MESSAGE value="EntendendoMetodoJavaaula3" />
+    <option name="LAST_COMMIT_MESSAGE" value="EntendendoMetodoJavaaula3" />
   </component>
 </project>
